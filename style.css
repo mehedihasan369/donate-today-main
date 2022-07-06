@@ -4,6 +4,7 @@ margin: 0%;}
   position: relative;
   text-align: center;
   color: white;
+  margin-bottom: 130px;
 }
 .centered {
   position: absolute;
@@ -18,14 +19,46 @@ margin: 0%;}
 .description-1{
   margin-bottom: 50px;
 }
-
-
-
-
-    .link-button{
+  .link-button{
       color: white;
       text-decoration: none;
       background-color: salmon;
       padding: 10px 40px;
       border-radius: 5px;
+    }
+
+    .headline-2{
+      text-align: center;
+      font-weight: 800;
+      font-size: 50px;
+    }
+    .description-2{
+      text-align: center;
+      color: rgb(82, 75, 75);
+      font-size: 20px;
+      margin-bottom: 50px;
+    }
+
+    
+    
+
+    .container2{
+      text-align: center;
+      margin-top: 20px;
+    }
+    .btn{
+      border:  4px solid #ffffff;
+      border-radius: 5px;
+      padding: 30px 25px 30px 25px;
+      font-size: 30px;
+      margin: 5px 5px 5px 5px;
+      color: rgb(68, 65, 65);
+      font-weight: bold;
+      transition: 0.1s;
+      
+    }
+    .btn:hover{
+      border: 4px solid rgb(238, 139, 129);
+      color: rgb(113, 22, 22);
+      background-color: rgb(215, 198, 198);
     }
