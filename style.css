@@ -1,0 +1,31 @@
+ body{font-family: 'Open Sans', sans-serif;
+margin: 0%;}
+ .container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.first-headline{
+  font-weight: 900;
+  font-size: 55px;
+}
+.description-1{
+  margin-bottom: 50px;
+}
+
+
+
+
+    .link-button{
+      color: white;
+      text-decoration: none;
+      background-color: salmon;
+      padding: 10px 40px;
+      border-radius: 5px;
+    }
