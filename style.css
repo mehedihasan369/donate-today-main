@@ -127,6 +127,15 @@ margin: 0%;
   border-radius: 10px;
 }
 
+.h1-3-box{
+  font-size: xx-large;
+      font-weight: bold;
+}
+.p-3-box{font-weight: 400;
+  font-size: large;
+
+}
+
 
 .about{
   text-align: center;
@@ -145,7 +154,7 @@ margin: 0%;
     }
     .picture{
       display: flex;
-      padding-left: 10px 20px 30px 40px;
+      width: 90%;
       align-items: flex-start;
     }
     
@@ -154,9 +163,21 @@ margin: 0%;
     padding: 20px 30px 20px 40px;
     text-align: justify;
     }
+    .about-h{
+      font-size: xx-large;
+      font-weight: bold;
+    }
+    .about-p{
+      font-weight: 400;
+      font-size: x-large;
+    }
     .about-img{
-      width: 80%;
-      margin: 20px 30px 20px 20px;
+      margin: 20px 10px 20px 10px;
+    }
+
+    .last-p-tag{
+      text-align: justify;
+      padding: 0 140px 40px 140px;
     }
 
 
