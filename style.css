@@ -128,6 +128,38 @@ margin: 0%;
 }
 
 
+.about{
+  text-align: center;
+    font-weight: 900;
+    padding-bottom: 5px;
+    border-bottom-style: solid;
+    border-color: #d64e44;
+    position: relative;
+    left: 28%;
+    width: 45%;
+    
+
+  }
+    span{
+      color: #d64e44;
+    }
+    .picture{
+      display: flex;
+      padding-left: 10px 20px 30px 40px;
+      align-items: flex-start;
+    }
+    
+    
+    .our-headline{
+    padding: 20px 30px 20px 40px;
+    text-align: justify;
+    }
+    .about-img{
+      width: 80%;
+      margin: 20px 30px 20px 20px;
+    }
+
+
 .box{
   position: relative;
   left: 30%;
@@ -148,7 +180,7 @@ input{
 }
 input[type="text"]
 {
-  background: #a09f9f;
+  background: #e7e7e7;
   width: 340px;
   height: 50px;
   border: none;
@@ -183,16 +215,5 @@ input[type="submit"]
   font-style: italic;
   color: rgb(134, 26, 26);
   font-weight: 1200;
-}
-
-.picture{
-  display: flex;
-  padding-left: 10px;
-  margin-top: 40px;
-}
-.half-width{
-  width: 50%;
-  padding: 20px 20px 20px 30px ;
-  margin-top: 40px;
 }
 
