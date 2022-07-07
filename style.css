@@ -195,9 +195,9 @@ margin: 0%;
 input{
   position: relative;
   display: inline
-  font-size: 20px;
-  box-sizing: border-box;
-  transition: .5s
+  font-size : 20px;
+  box-sizing : border-box;
+  transition :  .5s
 }
 input[type="text"]
 {
